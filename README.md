@@ -11,5 +11,5 @@ This is just a simple SLiM login manager theme which branded by Arch Linux.
     `current-theme archlinux-simplymono`
 
 ## license
-Creative Commons BY-SA
-Modified from: https://www.archlinux.org/packages/extra/any/archlinux-themes-slim/
+* Creative Commons BY-SA
+* Modified from: https://www.archlinux.org/packages/extra/any/archlinux-themes-slim/
